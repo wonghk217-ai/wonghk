@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "新增 Streamlit 應用程式"
+git branch -M main
+git remote add origin https://github.com/你的帳號/你的儲存庫.git
+git push -u origin main
